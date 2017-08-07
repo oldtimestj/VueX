@@ -5,7 +5,7 @@
 ## 项目初始化
 ``` bash
 # 克隆项目代码
-git clone https://github.com/lichenbuliren/vuex-notes-app.git
+git clone https://github.com/oldtimestj/VueX.git
 
 # 进入到项目根目录
 cd vuex-notes-app
